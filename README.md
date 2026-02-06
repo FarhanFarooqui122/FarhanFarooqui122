@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, 🤝I'm Farhan <br>BTech | Python & Robotics | AI & ML <br>
-⚡Aspiring AIML engineer passionate about 🔭Machine Learning, Robotics, and Real-World Problem Solving.<br>
+-⚡Aspiring AIML engineer passionate about 🔭Machine Learning, Robotics, and Real-World Problem Solving.<br>
 -Currently 👯 building projects in AI and ROBOTICS and also Web Development🌱.<br>
 -Currently learning python and AI fundamentals 💬 <br><br><br>
 
