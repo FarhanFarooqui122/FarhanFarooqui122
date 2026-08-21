@@ -7,6 +7,7 @@ Hi, 🤝I'm Farhan <br>SY BTech | Python & Robotics | AI & ML <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farhan.thegentleguy7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-farooqui-622381217) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhanfarooqui312@gmail.com) 
+[![Resume](https://shields.io)](https://farhanfarooqui122.github.io)
 
 <div align="center">
   
